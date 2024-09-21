@@ -1,0 +1,7 @@
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\bin\Debug\ClaseFraccion.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\bin\Debug\ClaseFraccion.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\bin\Debug\ClaseFraccion.pdb
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\obj\Debug\ClaseFraccion.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\obj\Debug\ClaseFraccion.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\obj\Debug\ClaseFraccion.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFraccion\ClaseFraccion\obj\Debug\ClaseFraccion.pdb

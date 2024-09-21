@@ -1,0 +1,7 @@
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\bin\Debug\ClaseFecha.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\bin\Debug\ClaseFecha.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\bin\Debug\ClaseFecha.pdb
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\obj\Debug\ClaseFecha.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\obj\Debug\ClaseFecha.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\obj\Debug\ClaseFecha.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseFecha\ClaseFecha\obj\Debug\ClaseFecha.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\bin\Debug\ClaseLibro.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\bin\Debug\ClaseLibro.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\bin\Debug\ClaseLibro.pdb
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\obj\Debug\ClaseLibro.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\obj\Debug\ClaseLibro.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\obj\Debug\ClaseLibro.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseLibro\ClaseLibro\obj\Debug\ClaseLibro.pdb

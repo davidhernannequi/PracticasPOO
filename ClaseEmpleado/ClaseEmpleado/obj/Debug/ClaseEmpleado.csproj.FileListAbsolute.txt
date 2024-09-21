@@ -1,0 +1,7 @@
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.pdb
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.pdb

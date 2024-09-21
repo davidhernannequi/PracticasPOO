@@ -1,0 +1,7 @@
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\bin\Debug\ClaseContador.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\bin\Debug\ClaseContador.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\bin\Debug\ClaseContador.pdb
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\obj\Debug\ClaseContador.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\obj\Debug\ClaseContador.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\obj\Debug\ClaseContador.exe
+C:\Users\PC-1\Desktop\Git Repository\Practicas para Bootcap ITR\ClaseContador\ClaseContador\obj\Debug\ClaseContador.pdb
